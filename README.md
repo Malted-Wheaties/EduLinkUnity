@@ -16,6 +16,7 @@
 
 ### To use the program, head to [releases](https://github.com/Malted-Wheaties/EduLinkUnity/releases)
 #### It only supports Windows at the moment, and is packaged as an installer for ease of use.
+#### Linux, then Mac builds in the future. Then AUR :)
 --------
 ##### Note
 The early iterations of the application will feel clunky and difficult to use; this will improve over time as bugs are fixed and things are smoothed out.
