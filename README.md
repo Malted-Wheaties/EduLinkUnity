@@ -11,14 +11,9 @@
 ![Github line count](https://img.shields.io/tokei/lines/github/Malted-Wheaties/EduLinkUnity)
 
 # EduLinkUnity
-## Depriciated - Very poor performance and contains major security flaws. Use [this](https://github.com/Malted-Wheaties/EduLink-Bolt/) instead.
+## Depriciated - Poor user experience, very slow, and contains major security flaws. Use [this](https://github.com/Malted-Wheaties/EduLink-Bolt/) instead.
 ### An unofficial desktop client for OvernetData's EduLinkOne service
 
 
 ### To use the program, head to [releases](https://github.com/Malted-Wheaties/EduLinkUnity/releases)
 #### It only supports Windows at the moment, and is packaged as an installer for ease of use.
-#### Linux, then Mac builds in the future. Then AUR :)
---------
-##### Note
-The early iterations of the application will feel clunky and difficult to use; this will improve over time as bugs are fixed and things are smoothed out.
-When finished this will be a good-looking, easy to use and quick way to view EduLink info for daily use.
