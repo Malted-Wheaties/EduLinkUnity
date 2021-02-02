@@ -11,7 +11,8 @@
 ![Github line count](https://img.shields.io/tokei/lines/github/Malted-Wheaties/EduLinkUnity)
 
 # EduLinkUnity
-## An unofficial desktop client for OvernetData's EduLinkOne service
+## Depriciated - Very poor performance and contains major security flaws. Use [this](https://github.com/Malted-Wheaties/EduLink-Bolt/) instead.
+### An unofficial desktop client for OvernetData's EduLinkOne service
 
 
 ### To use the program, head to [releases](https://github.com/Malted-Wheaties/EduLinkUnity/releases)
